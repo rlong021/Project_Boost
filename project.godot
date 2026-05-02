@@ -15,6 +15,13 @@ run/main_scene="uid://cmfweng4jro4m"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
 
+[file_customization]
+
+folder_colors={
+"res://assets/": "green",
+"res://level/": "blue"
+}
+
 [input]
 
 boost={
